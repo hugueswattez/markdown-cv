@@ -7,7 +7,7 @@ PhD Student, CRIL - Univ Artois & CNRS, Lens, France.
 
 <div id="webaddress">
 <a href="wattez@cril.fr">wattez@cril.fr</a>
-| <a href="http://www.cril.univ-artois.fr/~wattez">webpage</a>
+| <a href="http://www.cril.univ-artois.fr/~wattez">www.cril.univ-artois.fr/~wattez</a>
 | <a href="https://www.linkedin.com/in/hugues-wattez-348070145">LinkedIn</a>
 </div>
 
