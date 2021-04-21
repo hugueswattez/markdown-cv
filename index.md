@@ -22,9 +22,6 @@ Constraint Solving, Optimization, Heuristics, Multi-Armed Bandits
 
 ## Education
 
-`2012-2013`
-__High School Graduation Diploma of Science with Mathematics Speciality__, Guy Mollet High School, Arras, France
-
 `2018-`
 __PhD Thesis in Artificial Intelligence__, CRIL - Univ Artois & CNRS, Lens, France
 
@@ -40,18 +37,9 @@ __Technologic Diplom in Computer Science (HND)__, Univ Artois, Lens, France
 `2012-2013`
 __High School Graduation Diploma of Science with Mathematics Speciality__, Guy Mollet High School, Arras, France
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+A list is also available [online](http://scholar.google.co.uk/citations?user=AEYuMjIAAAAJ)
 
 ### Journals
 
@@ -84,6 +72,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2021 -->
 
 
