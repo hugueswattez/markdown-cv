@@ -14,17 +14,11 @@ PhD Student, CRIL - Univ Artois & CNRS, Lens, France.
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+I am currently a third year PhD student and I study the Autonomous Constraints Solvers under the direction of Frédéric Koriche, Christophe Lecoutre and Anastasia Paparrizou.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Constraint Solving, Optimization, Heuristics, Multi-Armed Bandits
 
 ## Education
 
