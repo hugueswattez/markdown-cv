@@ -22,20 +22,23 @@ Constraint Solving, Optimization, Heuristics, Multi-Armed Bandits
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012-2013`
+__High School Graduation Diploma of Science with Mathematics Speciality__, Guy Mollet High School, Arras, France
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2018-`
+__PhD Thesis in Artificial Intelligence__, CRIL - Univ Artois & CNRS, Lens, France
 
-- Sizar
+`2016-2018`
+__Master in Computer Science with Artificial Intelligence Speciality__, Univ Artois, Lens, France
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2015-2016`
+__Bachelor in Computer Science__, Univ Artois, Lens, France
 
-- Fellow
+`2013-2015`
+__Technologic Diplom in Computer Science (HND)__, Univ Artois, Lens, France
 
-
+`2012-2013`
+__High School Graduation Diploma of Science with Mathematics Speciality__, Guy Mollet High School, Arras, France
 
 ## Awards
 
