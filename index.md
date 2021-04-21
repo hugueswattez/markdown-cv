@@ -39,7 +39,7 @@ __High School Graduation Diploma of Science with Mathematics Speciality__, Guy M
 
 ## Publications
 
-A list is also available [online](http://scholar.google.co.uk/citations?user=AEYuMjIAAAAJ)
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=AEYuMjIAAAAJ)  -->
 
 ### International Conferences
 
@@ -70,6 +70,6 @@ __Solveurs de Contraintes Autonomes__ Master Thesis
 `2017`
 __Analytique et visualisation pour les applications de suivi des activités physiques et du sommeil__ Survey and Research Work (TER)
 
-Last updated: April 2021
+<!-- Last updated: April 2021 -->
 
 
