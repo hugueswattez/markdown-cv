@@ -14,7 +14,7 @@ PhD Student, CRIL - Univ Artois & CNRS, Lens, France.
 
 ## Currently
 
-I am currently a third year PhD student and I study the Autonomous Constraints Solvers under the direction of Frédéric Koriche, Christophe Lecoutre and Anastasia Paparrizou.
+I am a third year PhD student and I study the Autonomous Constraints Solvers under the supervision of Frédéric Koriche, Christophe Lecoutre and Anastasia Paparrizou.
 
 ### Research interests
 
