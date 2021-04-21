@@ -44,35 +44,32 @@ A list is also available [online](http://scholar.google.co.uk/citations?user=AEY
 ### International Conferences
 
 `2020`
-H Wattez, F Koriche, C Lecoutre, A Paparrizou and S Tabary, __Learning variable ordering heuristics with multi-armed bandits and restarts__ in *Proceedings of the 24th European Conference on Artificial Intelligence (ECAI'20)*
+H Wattez, F Koriche, C Lecoutre, A Paparrizou and S Tabary, __Learning Variable Ordering Heuristics with Multi-Armed Bandits and Restarts__ in *Proceedings of the 24th European Conference on Artificial Intelligence (ECAI'20)*
 
 `2020`
 A Paparrizou and H Wattez, __Perturbing Branching Heuristics in Constraint Solving__ in *Proceedings of the 26th International Conference on Principles and Practice of Constraint Programming (CP'20)*
 
 `2019`
-H Wattez, C Lecoutre, A Paparrizou and S Tabary, __Refining constraint weighting__ in *Proceedings of the 31st International Conference on Tools with Artificial Intelligence (ICTAI'19)*
+H Wattez, C Lecoutre, A Paparrizou and S Tabary, __Refining Constraint Weighting__ in *Proceedings of the 31st International Conference on Tools with Artificial Intelligence (ICTAI'19)*
 
-### Patents
+### National Conferences
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2019`
+H Wattez, F Koriche, C Lecoutre, A Paparrizou and S Tabary, __Heuristiques de Recherche : un Bandit pour les Gouverner Toutes__ in *Actes des 15es Journées Francophones de Programmation par Contraintes (JFPC'19)*
 
+### International Workshops
 
-## Occupation
+`2019`
+T Falque, R Wallon and H Wattez, __Metrics: Towards a Unified Library for Experimenting Solvers__ in *Actes des 15es Journées Francophones de Programmation par Contraintes (JFPC'19)*
 
-`1600`
-__Royal Mint__, London
+### Manuscripts
 
-- Warden
-- Minted coins
+`2018`
+__Solveurs de Contraintes Autonomes__ Master Thesis
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2017`
+__Analytique et visualisation pour les applications de suivi des activités physiques et du sommeil__ Survey and Research Work (TER)
 
-
-
-<!-- ### Footer
-
-Last updated: April 2021 -->
+Last updated: April 2021
 
 
