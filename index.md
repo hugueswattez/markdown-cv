@@ -2,12 +2,13 @@
 layout: cv
 title: Hugues Wattez's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Hugues Wattez
+PhD Student, CRIL - Univ Artois & CNRS, Lens, France.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="wattez@cril.fr">wattez@cril.fr</a>
+| <a href="cril.univ-artois.fr/~wattez">Webpage</a>
+| <a href="https://www.linkedin.com/in/hugues-wattez-348070145">LinkedIn</a>
 </div>
 
 
