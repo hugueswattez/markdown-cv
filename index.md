@@ -41,15 +41,16 @@ __High School Graduation Diploma of Science with Mathematics Speciality__, Guy M
 
 A list is also available [online](http://scholar.google.co.uk/citations?user=AEYuMjIAAAAJ)
 
-### Journals
+### International Conferences
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2020`
+H Wattez, F Koriche, C Lecoutre, A Paparrizou and S Tabary, __Learning variable ordering heuristics with multi-armed bandits and restarts__ in *Proceedings of the 24th European Conference on Artificial Intelligence (ECAI'20)*
 
-`1669`
-Lectiones opticæ.
+`2020`
+A Paparrizou and H Wattez, __Perturbing Branching Heuristics in Constraint Solving__ in *Proceedings of the 26th International Conference on Principles and Practice of Constraint Programming (CP'20)*
 
-etc. etc. etc.
+`2019`
+H Wattez, C Lecoutre, A Paparrizou and S Tabary, __Refining constraint weighting__ in *Proceedings of the 31st International Conference on Tools with Artificial Intelligence (ICTAI'19)*
 
 ### Patents
 
