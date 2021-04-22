@@ -3,7 +3,7 @@ layout: cv
 title: Hugues Wattez
 ---
 # Hugues Wattez
-PhD Student, CRIL - Univ Artois & CNRS, Lens, France.
+Doctorant, CRIL - Univ Artois & CNRS, Lens, France.
 
 <div id="webaddress">
   <div>
@@ -21,36 +21,36 @@ PhD Student, CRIL - Univ Artois & CNRS, Lens, France.
 </div>
 
 
-## Currently
+## Biographie
 
-I am a third year PhD student and I study the __Autonomous Constraints Solvers__ under the supervision of *Frédéric Koriche*, *Christophe Lecoutre* and *Anastasia Paparrizou*.
+Je suis en troisième année de doctorat pour lequel j'étudie les __Solveurs de Contraintes Autonomes__ sous la supervision de *Frédéric Koriche*, *Christophe Lecoutre* et *Anastasia Paparrizou*.
 
-### Research interests
+### Recherche
 
-Constraint Solving, Optimization, Heuristics, Multi-Armed Bandits
+Résolution de Contraintes, Optimisation, Heuristiques, Bandits Multi-Bras
 
-## Education
+## Formation
 
 `2018-`
-__PhD Thesis in Artificial Intelligence__, CRIL - Univ Artois & CNRS, Lens, France
+__Doctorat en Intelligence Artificielle__, CRIL - Univ Artois & CNRS, Lens, France
 
 `2016-2018`
-__Master in Computer Science with Artificial Intelligence Speciality__, Univ Artois, Lens, France
+__Master Informatique spécialité Intelligence Artificielles__, Univ Artois (Faculté), Lens, France
 
 `2015-2016`
-__Bachelor in Computer Science__, Univ Artois, Lens, France
+__Licence Informatique__, Univ Artois (Faculté), Lens, France
 
 `2013-2015`
-__Technologic Diplom in Computer Science (HND)__, Univ Artois, Lens, France
+__Diplôme Universitaire de Technologie Informatique__, Univ Artois (IUT), Lens, France
 
 `2012-2013`
-__High School Graduation Diploma of Science with Mathematics Speciality__, Guy Mollet High School, Arras, France
+__Baccalauréat Scientifique spécialité Mathématiques__, Lycée Guy Mollet, Arras, France
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=AEYuMjIAAAAJ)  -->
 
-### International Conferences
+### Conférences Internationales
 
 `2020`
 [1] H Wattez, F Koriche, C Lecoutre, A Paparrizou and S Tabary, __Learning Variable Ordering Heuristics with Multi-Armed Bandits and Restarts__ in *Proceedings of the 24th European Conference on Artificial Intelligence (ECAI'20)*
@@ -64,17 +64,17 @@ __High School Graduation Diploma of Science with Mathematics Speciality__, Guy M
 `2018`
 [4] K Tabia, H Wattez, N Ydée, K Sedki, __Data Analytics and Visualization for Connected Objects: A Case Study for Sleep and Physical Activity Trackers__ in *Proceedings of 31st International Conference on Industrial Engineering and Other Applications of Applied Intelligent Systems (IEA/AIE’18)*
 
-### National Conferences
+### Conférences Nationales
 
 `2019`
 [5] H Wattez, F Koriche, C Lecoutre, A Paparrizou and S Tabary, __Heuristiques de Recherche : un Bandit pour les Gouverner Toutes__ in *Actes des 15es Journées Francophones de Programmation par Contraintes (JFPC'19)*
 
-### International Workshops
+### Ateliers Internationaux
 
 `2019`
 [6] T Falque, R Wallon and H Wattez, __Metrics: Towards a Unified Library for Experimenting Solvers__ in *Actes des 15es Journées Francophones de Programmation par Contraintes (JFPC'19)*
 
-### Manuscripts
+### Manuscrits
 
 `2018`
 [7] __Solveurs de Contraintes Autonomes__ Master Thesis
@@ -82,11 +82,13 @@ __High School Graduation Diploma of Science with Mathematics Speciality__, Guy M
 `2017`
 [8] __Analytique et visualisation pour les applications de suivi des activités physiques et du sommeil__ Survey and Research Work (TER)
 
-## Education
+## Enseignements
 
-### Doctoral Teaching Supplement
+### Supplément doctoral d’enseignement
 
-128 hours of teaching at the IUT of Lens distributed over the following courses:
+128 heures d'intervention à l'IUT de Lens.
+
+
 
 
 
