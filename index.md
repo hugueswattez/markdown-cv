@@ -88,9 +88,26 @@ __Baccalauréat Scientifique spécialité Mathématiques__, Lycée Guy Mollet, A
 
 128 heures d'intervention à l'IUT de Lens.
 
+`DUT1-INFO`
+Introduction aux systèmes informatiques
 
+`DUT1-INFO`
+Conception de documents et d’interfaces numériques
 
+`DUT1-INFO`
+Introduction aux IHM
 
+`DUT1-INFO`
+Projet tutoré
+
+`DUT2-INFO`
+Conception et programmation objet avancées
+
+`DUT1-MMI`
+Réseaux
+
+`DU-Tremplin`
+Introduction aux systèmes informatiques
 
 <!-- Last updated: April 2021 -->
 
