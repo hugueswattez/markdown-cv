@@ -57,34 +57,34 @@ __Baccalauréat Scientifique spécialité Mathématiques__, Lycée Guy Mollet, A
 ### Conférences Internationales
 
 `2020`
-[1] H Wattez, F Koriche, C Lecoutre, A Paparrizou and S Tabary, __Learning Variable Ordering Heuristics with Multi-Armed Bandits and Restarts__ in *Proceedings of the 24th European Conference on Artificial Intelligence (ECAI'20)*
+[1] H Wattez, F Koriche, C Lecoutre, A Paparrizou and S Tabary, __Learning Variable Ordering Heuristics with Multi-Armed Bandits and Restarts__ dans les *Proceedings of the 24th European Conference on Artificial Intelligence (ECAI'20)*
 
 `2020`
-[2] A Paparrizou and H Wattez, __Perturbing Branching Heuristics in Constraint Solving__ in *Proceedings of the 26th International Conference on Principles and Practice of Constraint Programming (CP'20)*
+[2] A Paparrizou and H Wattez, __Perturbing Branching Heuristics in Constraint Solving__ dans les *Proceedings of the 26th International Conference on Principles and Practice of Constraint Programming (CP'20)*
 
 `2019`
-[3] H Wattez, C Lecoutre, A Paparrizou and S Tabary, __Refining Constraint Weighting__ in *Proceedings of the 31st International Conference on Tools with Artificial Intelligence (ICTAI'19)*
+[3] H Wattez, C Lecoutre, A Paparrizou and S Tabary, __Refining Constraint Weighting__ dans les *Proceedings of the 31st International Conference on Tools with Artificial Intelligence (ICTAI'19)*
 
 `2018`
-[4] K Tabia, H Wattez, N Ydée, K Sedki, __Data Analytics and Visualization for Connected Objects: A Case Study for Sleep and Physical Activity Trackers__ in *Proceedings of 31st International Conference on Industrial Engineering and Other Applications of Applied Intelligent Systems (IEA/AIE’18)*
+[4] K Tabia, H Wattez, N Ydée, K Sedki, __Data Analytics and Visualization for Connected Objects: A Case Study for Sleep and Physical Activity Trackers__ dans les *Proceedings of 31st International Conference on Industrial Engineering and Other Applications of Applied Intelligent Systems (IEA/AIE’18)*
 
 ### Conférences Nationales
 
 `2019`
-[5] H Wattez, F Koriche, C Lecoutre, A Paparrizou and S Tabary, __Heuristiques de Recherche : un Bandit pour les Gouverner Toutes__ in *Actes des 15es Journées Francophones de Programmation par Contraintes (JFPC'19)*
+[5] H Wattez, F Koriche, C Lecoutre, A Paparrizou and S Tabary, __Heuristiques de Recherche : un Bandit pour les Gouverner Toutes__ dans les *Actes des 15es Journées Francophones de Programmation par Contraintes (JFPC'19)*
 
 ### Ateliers Internationaux
 
 `2019`
-[6] T Falque, R Wallon and H Wattez, __Metrics: Towards a Unified Library for Experimenting Solvers__ in *the 11th International Workshop on Pragmatics of SAT (POS’20)*
+[6] T Falque, R Wallon and H Wattez, __Metrics: Towards a Unified Library for Experimenting Solvers__ pour la *the 11th International Workshop on Pragmatics of SAT (POS’20)*
 
 ### Manuscrits
 
 `2018`
-[7] __Solveurs de Contraintes Autonomes__ Master Thesis
+[7] __Solveurs de Contraintes Autonomes__ Thèse de Master
 
 `2017`
-[8] __Analytique et visualisation pour les applications de suivi des activités physiques et du sommeil__ Survey and Research Work (TER)
+[8] __Analytique et visualisation pour les applications de suivi des activités physiques et du sommeil__ Travail d'Étude et de Recherche (TER)
 
 ## Enseignements
 
@@ -116,7 +116,7 @@ __Introduction aux systèmes informatiques__
 ### Encadrement de Stage
 
 `M1-INFO`
-__Travail d’Etude et de Recherche (TER)__
+__Travail d’Étude et de Recherche (TER)__
 Implantation d’un outil permettant d’automatiser l’analyse de résultats expérimentaux.
 
 ### Concours Algorithmiques
@@ -142,9 +142,9 @@ __The 24th International Conference on Principles and Practice of Constraint Pro
 
 `2020` Deux Séminaires __Metrics: Towards a Unified Library for Experimenting Solvers__ [6] au sein du *CRIL, Lens, France*
 
-`2020` Présentation de l'article __Metrics: Towards a Unified Library for Experimenting Solvers__ [6] in *the 11th International Workshop on Pragmatics of SAT (POS’20)*
+`2020` Présentation de l'article __Metrics: Towards a Unified Library for Experimenting Solvers__ [6] lors de *the 11th International Workshop on Pragmatics of SAT (POS’20)*
 
-`2020` Présentation de l'article __Learning Variable Ordering Heuristics with Multi-Armed Bandits and Restarts__ [1] in *Proceedings of the 24th European Conference on Artificial Intelligence (ECAI'20)*
+`2020` Présentation de l'article __Learning Variable Ordering Heuristics with Multi-Armed Bandits and Restarts__ [1] lors de *the 24th European Conference on Artificial Intelligence (ECAI'20)*
 
 `2020` Présentation de l'article __Perturbing Branching Heuristics in Constraint Solving__ [2] lors de *the 26th International Conference on Principles and Practice of Constraint Programming (CP'20)*
 
@@ -156,9 +156,9 @@ __The 24th International Conference on Principles and Practice of Constraint Pro
 
 ## Production Logicielle
 
-`ACE` Contribution au solveur de contraintes ACE, nouvel alias d'AbsCon, avec l'intégration des travaux [1,2,3,5]
+`ACE` Contribution au solveur de contraintes ACE, nouvel alias d'AbsCon ([description](https://www.cril.univ-artois.fr/~lecoutre/#/softwares)), avec l'intégration des travaux [1,2,3,5]
 
-`Metrics` Conception de la bibliothèque open-source [6]
+`Metrics` Conception de la bibliothèque open-source ([dépôt](https://github.com/crillab/metrics)) [6]
 
 <!-- Last updated: April 2021 -->
 
