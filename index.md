@@ -8,15 +8,19 @@ Doctorant, CRIL - Univ Artois & CNRS, Lens, France.
 <div id="webaddress">
   <div>
     <ion-icon name="mail-outline"></ion-icon>
-    <a href="wattez@cril.fr">wattez@cril.fr</a>
+    <a href="mailto:wattez@cril.fr">wattez@cril.fr</a>
   </div>
   <div>
     <ion-icon name="link-outline"></ion-icon>
-    <a href="http://www.cril.univ-artois.fr/~wattez">www.cril.univ-artois.fr/~wattez</a>
+    <a target="_blank" href="http://www.cril.univ-artois.fr/~wattez">www.cril.univ-artois.fr/~wattez</a>
   </div>
   <div>
     <ion-icon name="logo-linkedin"></ion-icon>
-    <a href="https://www.linkedin.com/in/hugues-wattez-348070145">LinkedIn</a>
+    <a target="_blank" href="https://www.linkedin.com/in/hugues-wattez-348070145">LinkedIn</a>
+  </div>
+  <div>
+    <ion-icon name="calendar-number-outline"></ion-icon>
+    31/01/1995
   </div>
 </div>
 
