@@ -156,9 +156,9 @@ __The 24th International Conference on Principles and Practice of Constraint Pro
 
 ## Production Logicielle
 
-`ACE` Contribution au solveur de contraintes ACE, nouvel alias d'AbsCon ([description](https://www.cril.univ-artois.fr/~lecoutre/#/softwares)), avec l'intégration des travaux [1,2,3,5]
+`ACE` Contribution au solveur de contraintes ACE, nouvel alias d'AbsCon ([www.cril.univ-artois.fr/~lecoutre/#/softwares](https://www.cril.univ-artois.fr/~lecoutre/#/softwares)), avec l'intégration des travaux [1,2,3,5]
 
-`Metrics` Conception de la bibliothèque open-source ([dépôt](https://github.com/crillab/metrics)) [6]
+`Metrics` Conception de la bibliothèque open-source ([github.com/crillab/metrics](https://github.com/crillab/metrics)) [6]
 
 <!-- Last updated: April 2021 -->
 
