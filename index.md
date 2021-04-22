@@ -134,6 +134,10 @@ __Organisation des Journées Des Doctorants (JDD)__ CRIL, Ostende, Belgique
 `2018`
 __The 24th International Conference on Principles and Practice of Constraint Programming__ Lille, France
 
+## Présentations
+
+`2018` Séminaire invité, __Heuristiques de Recherche et Bandits Multi-Bras__, Équipe Coconut - LIRMM, Montpellier, France
+
 <!-- Last updated: April 2021 -->
 
 
