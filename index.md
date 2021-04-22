@@ -81,10 +81,10 @@ __Baccalauréat Scientifique spécialité Mathématiques__, Lycée Guy Mollet, A
 ### Manuscrits
 
 `2018`
-[7] __Solveurs de Contraintes Autonomes__ Thèse de Master
+[7] __Solveurs de Contraintes Autonomes__ [[pdf]](old/resources/pdf/stage-m2.pdf) Thèse de Master
 
 `2017`
-[8] __Analytique et visualisation pour les applications de suivi des activités physiques et du sommeil__ Travail d'Étude et de Recherche (TER)
+[8] __Analytique et visualisation pour les applications de suivi des activités physiques et du sommeil__ [[pdf]](old/resources/pdf/ter-m1.pdf) Travail d'Étude et de Recherche (TER)
 
 ## Enseignements
 
@@ -159,6 +159,10 @@ __The 24th International Conference on Principles and Practice of Constraint Pro
 `ACE` Contribution au solveur de contraintes ACE, nouvel alias d'AbsCon ([www.cril.univ-artois.fr/~lecoutre/#/softwares](https://www.cril.univ-artois.fr/~lecoutre/#/softwares)), avec l'intégration des travaux [1,2,3,5]
 
 `Metrics` Conception de la bibliothèque open-source ([github.com/crillab/metrics](https://github.com/crillab/metrics)) [6]
+
+## Archives
+
+`Site Web` [Lien](old) vers le précédent site internet recensant les travaux pré-doctoraux
 
 <!-- Last updated: April 2021 -->
 
