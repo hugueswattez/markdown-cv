@@ -89,25 +89,44 @@ __Baccalauréat Scientifique spécialité Mathématiques__, Lycée Guy Mollet, A
 128 heures d'intervention à l'IUT de Lens.
 
 `DUT1-INFO`
-Introduction aux systèmes informatiques
+__Introduction aux systèmes informatiques__
 
 `DUT1-INFO`
-Conception de documents et d’interfaces numériques
+__Conception de documents et d’interfaces numériques__
 
 `DUT1-INFO`
-Introduction aux IHM
+__Introduction aux IHM__
 
 `DUT1-INFO`
-Projet tutoré
+__Projet tutoré__
 
 `DUT2-INFO`
-Conception et programmation objet avancées
+__Conception et programmation objet avancées__
 
 `DUT1-MMI`
-Réseaux
+__Réseaux__
 
 `DU-Tremplin`
-Introduction aux systèmes informatiques
+__Introduction aux systèmes informatiques__
+
+### Encadrement de Stage
+
+`M1`
+__Travail d’Etude et de Recherche (TER)__
+Implantation d’un outil permettant d’automatiser l’analyse de résultats expérimentaux.
+
+### Concours Algorithmiques
+
+`L3`
+_Organisation du JERC 19-20_ (pour "Jean pErrin pRogramming Contest")
+
+`L3`
+_Organisation du JERC 20-21_ (pour "Jean pErrin pRogramming Contest")
+
+`L3-M1-M2`
+_Entraînements pour la participation au SWERC_ (pour "Southwestern Europe Regional Contest")
+
+
 
 <!-- Last updated: April 2021 -->
 
