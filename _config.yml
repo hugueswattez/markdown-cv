@@ -1,2 +1,3 @@
 markdown:   kramdown
-style:  davewhipp
+print-style:  davewhipp
+web-style:  kjhealy
