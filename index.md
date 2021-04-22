@@ -150,6 +150,12 @@ __The 24th International Conference on Principles and Practice of Constraint Pro
 
 `2018` Séminaire invité sur __Heuristiques de Recherche et Bandits Multi-Bras__ [5] au sein de *Équipe Coconut - LIRMM, Montpellier, France*
 
+## Production Logicielle
+
+`ACE` Contribution au solveur de contraintes ACE, nouvel alias d'AbsCon, avec l'intégration des travaux [1,2,3,5]
+
+`Metrics` Conception de la bibliothèque open-source [6]
+
 <!-- Last updated: April 2021 -->
 
 
