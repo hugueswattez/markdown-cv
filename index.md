@@ -31,7 +31,7 @@ Je suis en troisième année de doctorat (Informatique et Intelligence Artificie
 
 ### Mots-clés
 
-Résolution de Contraintes, Optimisation, Heuristiques, Bandits Multi-Bras
+`Résolution de Contraintes`, `Optimisation`, `Heuristiques`, `Bandits Multi-Bras`
 
 ## Formation
 
