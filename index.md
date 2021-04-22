@@ -44,31 +44,34 @@ __High School Graduation Diploma of Science with Mathematics Speciality__, Guy M
 ### International Conferences
 
 `2020`
-H Wattez, F Koriche, C Lecoutre, A Paparrizou and S Tabary, __Learning Variable Ordering Heuristics with Multi-Armed Bandits and Restarts__ in *Proceedings of the 24th European Conference on Artificial Intelligence (ECAI'20)*
+[1] H Wattez, F Koriche, C Lecoutre, A Paparrizou and S Tabary, __Learning Variable Ordering Heuristics with Multi-Armed Bandits and Restarts__ in *Proceedings of the 24th European Conference on Artificial Intelligence (ECAI'20)*
 
 `2020`
-A Paparrizou and H Wattez, __Perturbing Branching Heuristics in Constraint Solving__ in *Proceedings of the 26th International Conference on Principles and Practice of Constraint Programming (CP'20)*
+[2] A Paparrizou and H Wattez, __Perturbing Branching Heuristics in Constraint Solving__ in *Proceedings of the 26th International Conference on Principles and Practice of Constraint Programming (CP'20)*
 
 `2019`
-H Wattez, C Lecoutre, A Paparrizou and S Tabary, __Refining Constraint Weighting__ in *Proceedings of the 31st International Conference on Tools with Artificial Intelligence (ICTAI'19)*
+[3] H Wattez, C Lecoutre, A Paparrizou and S Tabary, __Refining Constraint Weighting__ in *Proceedings of the 31st International Conference on Tools with Artificial Intelligence (ICTAI'19)*
+
+`2018`
+[4] K Tabia, H Wattez, N Ydée, K Sedki, __Data Analytics and Visualization for Connected Objects: A Case Study for Sleep and Physical Activity Trackers__ in *Proceedings of 31st International Conference on Industrial Engineering and Other Applications of Applied Intelligent Systems (IEA/AIE’18)*
 
 ### National Conferences
 
 `2019`
-H Wattez, F Koriche, C Lecoutre, A Paparrizou and S Tabary, __Heuristiques de Recherche : un Bandit pour les Gouverner Toutes__ in *Actes des 15es Journées Francophones de Programmation par Contraintes (JFPC'19)*
+[5] H Wattez, F Koriche, C Lecoutre, A Paparrizou and S Tabary, __Heuristiques de Recherche : un Bandit pour les Gouverner Toutes__ in *Actes des 15es Journées Francophones de Programmation par Contraintes (JFPC'19)*
 
 ### International Workshops
 
 `2019`
-T Falque, R Wallon and H Wattez, __Metrics: Towards a Unified Library for Experimenting Solvers__ in *Actes des 15es Journées Francophones de Programmation par Contraintes (JFPC'19)*
+[6] T Falque, R Wallon and H Wattez, __Metrics: Towards a Unified Library for Experimenting Solvers__ in *Actes des 15es Journées Francophones de Programmation par Contraintes (JFPC'19)*
 
 ### Manuscripts
 
 `2018`
-__Solveurs de Contraintes Autonomes__ Master Thesis
+[7] __Solveurs de Contraintes Autonomes__ Master Thesis
 
 `2017`
-__Analytique et visualisation pour les applications de suivi des activités physiques et du sommeil__ Survey and Research Work (TER)
+[8] __Analytique et visualisation pour les applications de suivi des activités physiques et du sommeil__ Survey and Research Work (TER)
 
 <!-- Last updated: April 2021 -->
 
