@@ -29,7 +29,7 @@ Doctorant, CRIL - Univ Artois & CNRS, Lens, France.
 
 Je suis en troisième année de doctorat (Informatique et Intelligence Artificielle) pour lequel j'étudie les __Solveurs de Contraintes Autonomes__ sous la supervision de *Frédéric Koriche*, *Christophe Lecoutre* et *Anastasia Paparrizou*.
 
-### Recherche
+### Mots-clés
 
 Résolution de Contraintes, Optimisation, Heuristiques, Bandits Multi-Bras
 
