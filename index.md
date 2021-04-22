@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Hugues Wattez's CV
+title: Hugues Wattez
 ---
 # Hugues Wattez
 PhD Student, CRIL - Univ Artois & CNRS, Lens, France.
@@ -23,7 +23,7 @@ PhD Student, CRIL - Univ Artois & CNRS, Lens, France.
 
 ## Currently
 
-I am a third year PhD student and I study the Autonomous Constraints Solvers under the supervision of Frédéric Koriche, Christophe Lecoutre and Anastasia Paparrizou.
+I am a third year PhD student and I study the __Autonomous Constraints Solvers__ under the supervision of *Frédéric Koriche*, *Christophe Lecoutre* and *Anastasia Paparrizou*.
 
 ### Research interests
 
@@ -81,6 +81,14 @@ __High School Graduation Diploma of Science with Mathematics Speciality__, Guy M
 
 `2017`
 [8] __Analytique et visualisation pour les applications de suivi des activités physiques et du sommeil__ Survey and Research Work (TER)
+
+## Education
+
+### Doctoral Teaching Supplement
+
+128 hours of teaching at the IUT of Lens distributed over the following courses:
+
+
 
 <!-- Last updated: April 2021 -->
 
