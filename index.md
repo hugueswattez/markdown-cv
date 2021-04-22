@@ -111,22 +111,28 @@ __Introduction aux systèmes informatiques__
 
 ### Encadrement de Stage
 
-`M1`
+`M1-INFO`
 __Travail d’Etude et de Recherche (TER)__
 Implantation d’un outil permettant d’automatiser l’analyse de résultats expérimentaux.
 
 ### Concours Algorithmiques
 
-`L3`
+`L3-INFO`
 _Organisation du JERC 19-20_ (pour "Jean pErrin pRogramming Contest")
 
-`L3`
+`L3-INFO`
 _Organisation du JERC 20-21_ (pour "Jean pErrin pRogramming Contest")
 
-`L3-M1-M2`
+`L3-M1-M2-INFO`
 _Entraînements pour la participation au SWERC_ (pour "Southwestern Europe Regional Contest")
 
+## Comité d'Organisation
 
+`2019`
+__Organisation des Journées Des Doctorants (JDD)__ CRIL, Ostende, Belgique
+
+`2018`
+__The 24th International Conference on Principles and Practice of Constraint Programming__ Lille, France
 
 <!-- Last updated: April 2021 -->
 
