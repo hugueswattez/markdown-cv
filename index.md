@@ -162,8 +162,8 @@ __The 24th International Conference on Principles and Practice of Constraint Pro
 
 ## Archives
 
-`Site Web` [Lien](old) vers le précédent site internet recensant les travaux pré-doctoraux
+`Site Web` [Lien](old/home/) vers le précédent site internet recensant les travaux pré-doctoraux
 
-<!-- Last updated: April 2021 -->
+<!-- Last updated: June 2021 -->
 
 
