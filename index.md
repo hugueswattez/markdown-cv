@@ -152,9 +152,9 @@ __The 24th International Conference on Principles and Practice of Constraint Pro
 
 ## Présentations
 
-`2021` Présentation de l'article __Heuristiques de Recherche : un Bandit pour les Gouverner Toutes__ [9] lors des *15es Journées Francophones de Programmation par Contraintes (JFPC'19)*
+`2021` Présentation de l'article __Focus sur les heuristiques basées sur la pondération de contraintes__ [7] lors des *16es Journées Francophones de Programmation par Contraintes (JFPC'21)*
 
-`2021` Présentation de l'article __Heuristiques de Recherche : un Bandit pour les Gouverner Toutes__ [9] lors des *15es Journées Francophones de Programmation par Contraintes (JFPC'19)*
+`2021` Présentation de l'article __Perturbation des heuristiques de branchement dans la résolution de contraintes__ [8] lors des *16es Journées Francophones de Programmation par Contraintes (JFPC'21)*
 
 `2020` Deux Séminaires __Metrics: Towards a Unified Library for Experimenting Solvers__ [10] au sein du *CRIL, Lens, France*
 
