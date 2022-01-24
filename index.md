@@ -35,7 +35,7 @@ Je suis en troisième année de doctorat (Informatique et Intelligence Artificie
 
 ## Formation
 
-`2018-`
+`2018-2021`
 __Doctorat en Intelligence Artificielle__, CRIL - Univ Artois & CNRS, Lens, France
 
 `2016-2018`
@@ -92,17 +92,23 @@ __Baccalauréat Scientifique spécialité Mathématiques__, Lycée Guy Mollet, A
 
 ### Manuscrits
 
+`2021`
+[11] __Solveurs de Contraintes Autonomes__ [TBA] Thèse de Doctorat
+
 `2018`
-[11] __Solveurs de Contraintes Autonomes__ [[pdf]](old/resources/pdf/stage-m2.pdf) Thèse de Master
+[12] __Solveurs de Contraintes Autonomes__ [[pdf]](old/resources/pdf/stage-m2.pdf) Thèse de Master
 
 `2017`
-[12] __Analytique et visualisation pour les applications de suivi des activités physiques et du sommeil__ [[pdf]](old/resources/pdf/ter-m1.pdf) Travail d'Étude et de Recherche (TER)
+[13] __Analytique et visualisation pour les applications de suivi des activités physiques et du sommeil__ [[pdf]](old/resources/pdf/ter-m1.pdf) Travail d'Étude et de Recherche (TER)
 
 ## Enseignements
 
 ### Supplément doctoral d’enseignement
 
-128 heures d'intervention à l'IUT de Lens.
+195 heures d'intervention à l'IUT de Lens.
+
+`DUT1-INFO`
+__Introduction au développement algorithmique__
 
 `DUT1-INFO`
 __Introduction aux systèmes informatiques__
@@ -115,6 +121,9 @@ __Introduction aux IHM__
 
 `DUT1-INFO`
 __Projet tutoré__
+
+`DUT2-INFO`
+__Programmation web__
 
 `DUT2-INFO`
 __Conception et programmation objet avancées__
@@ -151,6 +160,8 @@ __Organisation des Journées Des Doctorants (JDD'19)__ CRIL, Ostende, Belgique
 __The 24th International Conference on Principles and Practice of Constraint Programming__ Lille, France
 
 ## Présentations
+
+`2021` Présentation du sujet __Solveurs de Contraintes Autonomes__ [11] lors de ma *Soutenance de Thèse*
 
 `2021` Présentation de l'article __Focus sur les heuristiques basées sur la pondération de contraintes__ [7] lors des *16es Journées Francophones de Programmation par Contraintes (JFPC'21)*
 
