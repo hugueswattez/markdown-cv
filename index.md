@@ -3,17 +3,17 @@ layout: cv
 title: Hugues Wattez
 ---
 # Hugues Wattez
-Doctorant, CRIL - Univ Artois & CNRS, Lens, France.
+Chercheur postdoctoral, LIX CNRS, École Polytechnique, Institut Polytechnique de Paris, France.
 
 <div id="webaddress">
   <div>
     <ion-icon name="mail-outline"></ion-icon>
-    <a href="mailto:wattez@cril.fr">wattez@cril.fr</a>
+    <a href="mailto:wattez@lix.polytechnique.fr">wattez@lix.polytechnique.fr</a>
   </div>
-  <div>
+  <!--<div>
     <ion-icon name="link-outline"></ion-icon>
     <a target="_blank" href="http://www.cril.univ-artois.fr/~wattez">www.cril.univ-artois.fr/~wattez</a>
-  </div>
+  </div>-->
   <div>
     <ion-icon name="logo-linkedin"></ion-icon>
     <a target="_blank" href="https://www.linkedin.com/in/hugues-wattez-348070145">LinkedIn</a>
@@ -56,50 +56,53 @@ __Baccalauréat Scientifique spécialité Mathématiques__, Lycée Guy Mollet, A
 
 ### Conférences Internationales
 
-`2020`
-[1] H Wattez, F Koriche, C Lecoutre, A Paparrizou and S Tabary, __Learning Variable Ordering Heuristics with Multi-Armed Bandits and Restarts__ dans les *Proceedings of the 24th European Conference on Artificial Intelligence (ECAI'20)*
+`2022`
+[1] H Wattez, F Koriche, C Lecoutre and A Paparrizou, __Best Heuristic Identification for Constraint Satisfaction__ dans les *Proceedings of the 31st International Joint Conference on Artificial Intelligence (IJCAI'22)*
 
 `2020`
-[2] A Paparrizou and H Wattez, __Perturbing Branching Heuristics in Constraint Solving__ dans les *Proceedings of the 26th International Conference on Principles and Practice of Constraint Programming (CP'20)*
+[2] H Wattez, F Koriche, C Lecoutre, A Paparrizou and S Tabary, __Learning Variable Ordering Heuristics with Multi-Armed Bandits and Restarts__ dans les *Proceedings of the 24th European Conference on Artificial Intelligence (ECAI'20)*
+
+`2020`
+[3] A Paparrizou and H Wattez, __Perturbing Branching Heuristics in Constraint Solving__ dans les *Proceedings of the 26th International Conference on Principles and Practice of Constraint Programming (CP'20)*
 
 `2019`
-[3] H Wattez, C Lecoutre, A Paparrizou and S Tabary, __Refining Constraint Weighting__ dans les *Proceedings of the 31st International Conference on Tools with Artificial Intelligence (ICTAI'19)*
+[4] H Wattez, C Lecoutre, A Paparrizou and S Tabary, __Refining Constraint Weighting__ dans les *Proceedings of the 31st International Conference on Tools with Artificial Intelligence (ICTAI'19)*
 
 `2018`
-[4] K Tabia, H Wattez, N Ydée, K Sedki, __Data Analytics and Visualization for Connected Objects: A Case Study for Sleep and Physical Activity Trackers__ dans les *Proceedings of 31st International Conference on Industrial Engineering and Other Applications of Applied Intelligent Systems (IEA/AIE’18)*
+[5] K Tabia, H Wattez, N Ydée, K Sedki, __Data Analytics and Visualization for Connected Objects: A Case Study for Sleep and Physical Activity Trackers__ dans les *Proceedings of 31st International Conference on Industrial Engineering and Other Applications of Applied Intelligent Systems (IEA/AIE’18)*
 
 ### Conférences Nationales
 
 `2021`
-[5] T Falque, C Lecoutre, B Mazure, H Wattez, __Descente Agressive de la Borne en Optimisation sous Contraintes__ dans les *Actes des 16es Journées Francophones de Programmation par Contraintes (JFPC'21)*
+[6] T Falque, C Lecoutre, B Mazure, H Wattez, __Descente Agressive de la Borne en Optimisation sous Contraintes__ dans les *Actes des 16es Journées Francophones de Programmation par Contraintes (JFPC'21)*
 
 `2021`
-[6] T Falque, R Wallon, H Wattez, __Metrics : Mission Expérimentations__ dans les *Actes des 16es Journées Francophones de Programmation par Contraintes (JFPC'21)*
+[7] T Falque, R Wallon, H Wattez, __Metrics : Mission Expérimentations__ dans les *Actes des 16es Journées Francophones de Programmation par Contraintes (JFPC'21)*
 
 `2021`
-[7] H Wattez, F Koriche, C Lecoutre, A Paparrizou, S Tabary, __Focus sur les heuristiques basées sur la pondération de contraintes__ dans les *Actes des 16es Journées Francophones de Programmation par Contraintes (JFPC'21)*
+[8] H Wattez, F Koriche, C Lecoutre, A Paparrizou, S Tabary, __Focus sur les heuristiques basées sur la pondération de contraintes__ dans les *Actes des 16es Journées Francophones de Programmation par Contraintes (JFPC'21)*
 
 `2021`
-[8] H Wattez, F Koriche, A Paparrizou, __Perturbation des heuristiques de branchement dans la résolution de contraintes__ dans les *Actes des 16es Journées Francophones de Programmation par Contraintes (JFPC'21)*
+[9] H Wattez, F Koriche, A Paparrizou, __Perturbation des heuristiques de branchement dans la résolution de contraintes__ dans les *Actes des 16es Journées Francophones de Programmation par Contraintes (JFPC'21)*
 
 `2019`
-[9] H Wattez, F Koriche, C Lecoutre, A Paparrizou, S Tabary, __Heuristiques de Recherche : un Bandit pour les Gouverner Toutes__ dans les *Actes des 15es Journées Francophones de Programmation par Contraintes (JFPC'19)*
+[10] H Wattez, F Koriche, C Lecoutre, A Paparrizou, S Tabary, __Heuristiques de Recherche : un Bandit pour les Gouverner Toutes__ dans les *Actes des 15es Journées Francophones de Programmation par Contraintes (JFPC'19)*
 
 ### Ateliers Internationaux
 
 `2019`
-[10] T Falque, R Wallon and H Wattez, __Metrics: Towards a Unified Library for Experimenting Solvers__ pour la *the 11th International Workshop on Pragmatics of SAT (POS’20)*
+[11] T Falque, R Wallon and H Wattez, __Metrics: Towards a Unified Library for Experimenting Solvers__ pour la *the 11th International Workshop on Pragmatics of SAT (POS’20)*
 
 ### Manuscrits
 
 `2021`
-[11] __Solveurs de Contraintes Autonomes__ [TBA] Thèse de Doctorat
+[12] __Solveurs de Contraintes Autonomes__ [TBA] Thèse de Doctorat
 
 `2018`
-[12] __Solveurs de Contraintes Autonomes__ [[pdf]](old/resources/pdf/stage-m2.pdf) Thèse de Master
+[13] __Solveurs de Contraintes Autonomes__ [[pdf]](old/resources/pdf/stage-m2.pdf) Thèse de Master
 
 `2017`
-[13] __Analytique et visualisation pour les applications de suivi des activités physiques et du sommeil__ [[pdf]](old/resources/pdf/ter-m1.pdf) Travail d'Étude et de Recherche (TER)
+[14] __Analytique et visualisation pour les applications de suivi des activités physiques et du sommeil__ [[pdf]](old/resources/pdf/ter-m1.pdf) Travail d'Étude et de Recherche (TER)
 
 ## Enseignements
 
@@ -161,31 +164,33 @@ __The 24th International Conference on Principles and Practice of Constraint Pro
 
 ## Présentations
 
-`2021` Présentation du sujet __Solveurs de Contraintes Autonomes__ [11] lors de ma *Soutenance de Thèse*
+`2022` Séminaire tutoriel sur la __Programmation par Contraintes__ au sein de *Équipe Optimix - LIX, Paris, France*
 
-`2021` Présentation de l'article __Focus sur les heuristiques basées sur la pondération de contraintes__ [7] lors des *16es Journées Francophones de Programmation par Contraintes (JFPC'21)*
+`2021` Présentation du sujet __Solveurs de Contraintes Autonomes__ [12] lors de ma *Soutenance de Thèse*
 
-`2021` Présentation de l'article __Perturbation des heuristiques de branchement dans la résolution de contraintes__ [8] lors des *16es Journées Francophones de Programmation par Contraintes (JFPC'21)*
+`2021` Présentation de l'article __Focus sur les heuristiques basées sur la pondération de contraintes__ [8] lors des *16es Journées Francophones de Programmation par Contraintes (JFPC'21)*
 
-`2020` Deux Séminaires __Metrics: Towards a Unified Library for Experimenting Solvers__ [10] au sein du *CRIL, Lens, France*
+`2021` Présentation de l'article __Perturbation des heuristiques de branchement dans la résolution de contraintes__ [9] lors des *16es Journées Francophones de Programmation par Contraintes (JFPC'21)*
 
-`2020` Présentation de l'article __Metrics: Towards a Unified Library for Experimenting Solvers__ [10] lors de *the 11th International Workshop on Pragmatics of SAT (POS’20)*
+`2020` Deux Séminaires __Metrics: Towards a Unified Library for Experimenting Solvers__ [11] au sein du *CRIL, Lens, France*
 
-`2020` Présentation de l'article __Learning Variable Ordering Heuristics with Multi-Armed Bandits and Restarts__ [1] lors de *the 24th European Conference on Artificial Intelligence (ECAI'20)*
+`2020` Présentation de l'article __Metrics: Towards a Unified Library for Experimenting Solvers__ [11] lors de *the 11th International Workshop on Pragmatics of SAT (POS’20)*
 
-`2020` Présentation de l'article __Perturbing Branching Heuristics in Constraint Solving__ [2] lors de *the 26th International Conference on Principles and Practice of Constraint Programming (CP'20)*
+`2020` Présentation de l'article __Learning Variable Ordering Heuristics with Multi-Armed Bandits and Restarts__ [2] lors de *the 24th European Conference on Artificial Intelligence (ECAI'20)*
 
-`2019` Présentation de l'article __Refining Constraint Weighting__ [3] lors de *the 31st International Conference on Tools with Artificial Intelligence (ICTAI'19)*
+`2020` Présentation de l'article __Perturbing Branching Heuristics in Constraint Solving__ [3] lors de *the 26th International Conference on Principles and Practice of Constraint Programming (CP'20)*
 
-`2019` Présentation de l'article __Heuristiques de Recherche : un Bandit pour les Gouverner Toutes__ [9] lors des *15es Journées Francophones de Programmation par Contraintes (JFPC'19)*
+`2019` Présentation de l'article __Refining Constraint Weighting__ [4] lors de *the 31st International Conference on Tools with Artificial Intelligence (ICTAI'19)*
 
-`2018` Séminaire invité sur __Heuristiques de Recherche et Bandits Multi-Bras__ [9] au sein de *Équipe Coconut - LIRMM, Montpellier, France*
+`2019` Présentation de l'article __Heuristiques de Recherche : un Bandit pour les Gouverner Toutes__ [10] lors des *15es Journées Francophones de Programmation par Contraintes (JFPC'19)*
+
+`2018` Séminaire invité sur __Heuristiques de Recherche et Bandits Multi-Bras__ [10] au sein de *Équipe Coconut - LIRMM, Montpellier, France*
 
 ## Production Logicielle
 
-`ACE` Contribution au solveur de contraintes ACE, nouvel alias d'AbsCon ([www.cril.univ-artois.fr/~lecoutre/#/softwares](https://www.cril.univ-artois.fr/~lecoutre/#/softwares)), avec l'intégration des travaux [1,2,3,9]
+`ACE` Contribution au solveur de contraintes ACE, nouvel alias d'AbsCon ([www.cril.univ-artois.fr/~lecoutre/#/softwares](https://www.cril.univ-artois.fr/~lecoutre/#/softwares)), avec l'intégration des travaux [1,2,3,4,10]
 
-`Metrics` Conception de la bibliothèque open-source ([github.com/crillab/metrics](https://github.com/crillab/metrics)) [10]
+`Metrics` Conception de la bibliothèque open-source ([github.com/crillab/metrics](https://github.com/crillab/metrics)) [11]
 
 ## Archives
 
