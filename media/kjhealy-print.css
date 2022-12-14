@@ -23,6 +23,11 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+
+i {
+	font-style: italic;
+}
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
@@ -56,7 +61,7 @@ body {
 	font-size: 10pt;
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Verdana,sans-serif;
+	font-family: Palatino,sans-serif;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
@@ -67,6 +72,23 @@ p {
 	margin-bottom: 0.2em;
 	margin-right: 0;
 	width: 70%;
+}
+
+table {
+	position: relative;
+	left: 40%;
+	margin-bottom: 0.2em;
+	margin-right: 0;
+	width: 50%;
+	text-align: center;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+table th {
+	font-weight: bold;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
 }
 
 code {
@@ -114,7 +136,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
+	font-family: Menlo,Verdana,sans-serif;
 	width: 65%;
 }
 
@@ -124,6 +146,7 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 28%;
+	font-family: Cousine,Verdana,sans-serif;
 }
 
 h1+p { 
@@ -137,7 +160,7 @@ h2 {
 	color: #a00;
 	margin-top: 2em;
 	position: relative;
-	top: 1.2em;
+	top: 1.1em;
 	text-align: right;
 	width: 18%;
 }
@@ -189,6 +212,20 @@ strong {
 	visibility: hidden;
 }
 
+p {
+	font-size: 15px;
+	text-align: justify;
+}
 
+li {
+	font-size: 15px;
+}
 
+a {
+	font-family: Menlo;
+	font-size: 12px;
+}
 
+h1, h2, h3 {
+	font-family: Palatino;
+}

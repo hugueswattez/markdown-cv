@@ -2,9 +2,9 @@
 <html>
 <head>
   <meta charset=utf-8 />
-  <title>$title$</title>
-  <link href="media/$web-style$-screen.css" type="text/css" rel="stylesheet" media="screen">
-  <link href="media/$print-style$-print.css" type="text/css" rel="stylesheet" media="print">
+  <title>Hugues Wattez</title>
+  <link href="media/davewhipp-screen.css" type="text/css" rel="stylesheet" media="screen">
+  <link href="media/kjhealy-print.css" type="text/css" rel="stylesheet" media="print">
   <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
   <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </head>
@@ -129,7 +129,7 @@ Je suis en troisième année de doctorat (Informatique et Intelligence Artificie
 
 <p><strong>Des heuristiques de branchement plus efficaces</strong></p>
 
-<p>Il est bien connu que l’espace exploré durant la recherche peut drastiquement fluctuer selon l’ordre dans lequel les variables sont instanciées. En considérant que le parfait ordonnancement des variables résulterait en une recherche sans retour-arrière, la recherche d’heuristiques de choix de variables suscite toujours autant l’intérêt des chercheurs. Depuis quinze ans, l’approche basée sur la pondération des contraintes s’est toujours montrée efficace pour guider la recherche. Dans mes travaux, je propose une nouvelle heuristique de branchement générique se basant sur l'affinement des informations prélevées lorsque le solveur rencontre des conflits afin d'améliorer la sélection des variables les causant [$refs.hal-02414832$, $refs.hal-03449631$].</p>
+<p>Il est bien connu que l’espace exploré durant la recherche peut drastiquement fluctuer selon l’ordre dans lequel les variables sont instanciées. En considérant que le parfait ordonnancement des variables résulterait en une recherche sans retour-arrière, la recherche d’heuristiques de choix de variables suscite toujours autant l’intérêt des chercheurs. Depuis quinze ans, l’approche basée sur la pondération des contraintes s’est toujours montrée efficace pour guider la recherche. Dans mes travaux, je propose une nouvelle heuristique de branchement générique se basant sur l'affinement des informations prélevées lorsque le solveur rencontre des conflits afin d'améliorer la sélection des variables les causant [4, 9].</p>
 
 <p><strong>Un gain d'autonomie des solveurs de contraintes</strong></p>
 
@@ -137,11 +137,11 @@ Je suis en troisième année de doctorat (Informatique et Intelligence Artificie
 
 <p>En réponse à ce problème de choix séquentiel, mes travaux d'inspirent des politiques traitant du problème du bandit multi-bras. De telles politiques sont issues de l’apprentissage par renforcement et permettent d’explorer un ensemble d’actions tout en exploitant, le plus souvent possible, l’action la plus prometteuse.</p>
 
-<p>À partir de ce framework basé sur les redémarrages du solveur et l'apprentissage par renforcement, plusieurs contributions sont proposées pour rendre les solveurs de contraintes modernes plus autonomes. De premières publications sont proposées où les politiques proposées dans la littérature sur les bandits multi-bras sont appliquées pour apprendre la meilleure heuristique parmi un ensemble d’heuristiques fournies par le solveur [$refs.hal-03096124$, $refs.hal-02414288$]. Sur la base de cette première application, nous proposons une nouvelle politique qui est plus cohérente avec la structure des solveurs actuels [$refs.hal-03096113$]. Toujours en utilisant des politiques de bandit, mes travaux proposent d’adapter la quantité d’aléa nécessaire pour perturber une heuristique donnée et la rendre plus efficace [$refs.hal-03678354$, $refs.hal-03449550$]. En perspective de ces précédents travaux, j'essaye d'étendre ces résultats aux solveurs de contraintes sous optimisation.</p>
+<p>À partir de ce framework basé sur les redémarrages du solveur et l'apprentissage par renforcement, plusieurs contributions sont proposées pour rendre les solveurs de contraintes modernes plus autonomes. De premières publications sont proposées où les politiques proposées dans la littérature sur les bandits multi-bras sont appliquées pour apprendre la meilleure heuristique parmi un ensemble d’heuristiques fournies par le solveur [3, 13]. Sur la base de cette première application, nous proposons une nouvelle politique qui est plus cohérente avec la structure des solveurs actuels [2]. Toujours en utilisant des politiques de bandit, mes travaux proposent d’adapter la quantité d’aléa nécessaire pour perturber une heuristique donnée et la rendre plus efficace [1, 10]. En perspective de ces précédents travaux, j'essaye d'étendre ces résultats aux solveurs de contraintes sous optimisation.</p>
 
 <p><strong>Vers une généralisation du choix du paradigme de résolution</strong></p>
 
-<p>En extension du gain d'autonomie au sein même des solveurs de contraintes, je propose des travaux préliminaires sur l'hybridation et la sélection en ligne du paradigme de résolution le plus efficace entre les solveurs de contraintes et les solveurs d'optimisation mathématique en nombres entiers. Mes travaux actuels se basent sur l'étude du problème de monoroutage [$refs.hal-03647245$, $refs.hal-03597206$]. En perspective de ces travaux, je suis intéressé par rendre générique cette méthode sur des benchmarks plus larges entre les solveurs pseudo-booléens et les solveurs d'optimisation mathématique en nombres entiers (ces deux paradigmes interprétant le même format d'instance en entrée).</p>
+<p>En extension du gain d'autonomie au sein même des solveurs de contraintes, je propose des travaux préliminaires sur l'hybridation et la sélection en ligne du paradigme de résolution le plus efficace entre les solveurs de contraintes et les solveurs d'optimisation mathématique en nombres entiers. Mes travaux actuels se basent sur l'étude du problème de monoroutage [6, 8]. En perspective de ces travaux, je suis intéressé par rendre générique cette méthode sur des benchmarks plus larges entre les solveurs pseudo-booléens et les solveurs d'optimisation mathématique en nombres entiers (ces deux paradigmes interprétant le même format d'instance en entrée).</p>
 
 <h2 id="enseignements">Enseignements</h2>
 <h3 id="supplément-doctoral-denseignement">Supplément doctoral d’enseignement et ATER</h3>
@@ -278,22 +278,22 @@ Master Informatique à l’UFR des Sciences Jean Perrin (Université d’Artois)
 <p><code>2018</code> Participation à l'organisation de <strong>The 24th International Conference on Principles and Practice of Constraint Programming (CP'18)</strong> à Lille (France). Pendant cinq jours, il s'agissait d'accueillir les participants à la conférence, de répondre aux questions d'organisation et de participer aux tâches techniques des sessions.</p>
 
 <h2 id="présentations">Éléments de Visibilité</h2>
-<p><code>2022</code> Présentation de l’article <strong>Best Heuristic Identification for Constraint Satisfaction</strong> [$refs.hal-03678354$] lors de la <em>31st International Joint Conference on Artificial Intelligence (IJCAI’22)</em></p>
-<p><code>2022</code> Présentation de l’article <strong>Exploring AI approaches to improve the resolution of unsplittable multicommodity flow problems in wireless networks</strong> [$refs.hal-03647245$] lors de la <em>39th Spanish Conference on Statistics and Operation Research (SEIO’22)</em></p>
-<p><code>2022</code> Tutoriel sur <strong>Extraction, analyse et reproductibilité de campagnes expérimentales avec l’outil Metrics</strong> [$refs.hal-03595329$, $refs.hal-03295285$] lors de la <em>Plate-Forme Intelligence Artificielle (PFIA'22)</em></p>
-<p><code>2022</code> Présentation de l’article <strong>Best Heuristic Identification for Constraint Satisfaction</strong> [$refs.hal-03678354$] lors de la <em>Conférence Nationale en Intelligence Artificielle (CNIA'22)</em></p>
-<p><code>2022</code> Présentation de l’article <strong>Exploration des approches de l’IA pour renforcer la résolution des problèmes de multiflots entiers dans les réseaux énergétiques</strong> [$refs.hal-03597206$] lors de la <em>23è Conférence ROADEF de la Société Française de Recherche Opérationnelle et d’Aide à la Décision (ROADEF’22)</em></p>
+<p><code>2022</code> Présentation de l’article <strong>Best Heuristic Identification for Constraint Satisfaction</strong> [1] lors de la <em>31st International Joint Conference on Artificial Intelligence (IJCAI’22)</em></p>
+<p><code>2022</code> Présentation de l’article <strong>Exploring AI approaches to improve the resolution of unsplittable multicommodity flow problems in wireless networks</strong> [6] lors de la <em>39th Spanish Conference on Statistics and Operation Research (SEIO’22)</em></p>
+<p><code>2022</code> Tutoriel sur <strong>Extraction, analyse et reproductibilité de campagnes expérimentales avec l’outil Metrics</strong> [7, 12] lors de la <em>Plate-Forme Intelligence Artificielle (PFIA'22)</em></p>
+<p><code>2022</code> Présentation de l’article <strong>Best Heuristic Identification for Constraint Satisfaction</strong> [1] lors de la <em>Conférence Nationale en Intelligence Artificielle (CNIA'22)</em></p>
+<p><code>2022</code> Présentation de l’article <strong>Exploration des approches de l’IA pour renforcer la résolution des problèmes de multiflots entiers dans les réseaux énergétiques</strong> [8] lors de la <em>23è Conférence ROADEF de la Société Française de Recherche Opérationnelle et d’Aide à la Décision (ROADEF’22)</em></p>
 <p><code>2022</code> Séminaire tutoriel sur la <strong>Programmation par Contraintes</strong> au sein de <em>Équipe Optimix - LIX, Paris, France</em></p>
-<p><code>2021</code> Présentation du sujet <strong>Solveurs de Contraintes Autonomes</strong> [$refs.tel-03648917$] lors de ma <em>Soutenance de Thèse</em></p>
-<p><code>2021</code> Présentation de l’article <strong>Focus sur les heuristiques basées sur la pondération de contraintes</strong> [$refs.hal-03449631$] lors des <em>16es Journées Francophones de Programmation par Contraintes (JFPC’21)</em></p>
-<p><code>2021</code> Présentation de l’article <strong>Perturbation des heuristiques de branchement dans la résolution de contraintes</strong> [$refs.hal-03449550$] lors des <em>16es Journées Francophones de Programmation par Contraintes (JFPC’21)</em></p>
-<p><code>2020</code> Deux Séminaires <strong>Metrics: Towards a Unified Library for Experimenting Solvers</strong> [$refs.hal-03301303$] au sein du <em>CRIL, Lens, France</em></p>
-<p><code>2020</code> Présentation de l’article <strong>Metrics: Towards a Unified Library for Experimenting Solvers</strong> [$refs.hal-03301303$] lors de <em>the 11th International Workshop on Pragmatics of SAT (POS’20)</em></p>
-<p><code>2020</code> Présentation de l’article <strong>Learning Variable Ordering Heuristics with Multi-Armed Bandits and Restarts</strong> [$refs.hal-03096124$] lors de <em>the 24th European Conference on Artificial Intelligence (ECAI’20)</em></p>
-<p><code>2020</code> Présentation de l’article <strong>Perturbing Branching Heuristics in Constraint Solving</strong> [$refs.hal-03096113$] lors de <em>the 26th International Conference on Principles and Practice of Constraint Programming (CP’20)</em></p>
-<p><code>2019</code> Présentation de l’article <strong>Refining Constraint Weighting</strong> [$refs.hal-02414832$] lors de <em>the 31st International Conference on Tools with Artificial Intelligence (ICTAI’19)</em></p>
-<p><code>2019</code> Présentation de l’article <strong>Heuristiques de Recherche : un Bandit pour les Gouverner Toutes</strong> [$refs.hal-02414288$] lors des <em>15es Journées Francophones de Programmation par Contraintes (JFPC’19)</em></p>
-<p><code>2018</code> Séminaire invité sur <strong>Heuristiques de Recherche et Bandits Multi-Bras</strong> [$refs.hal-02414288$] au sein de <em>Équipe Coconut - LIRMM, Montpellier, France</em></p>
+<p><code>2021</code> Présentation du sujet <strong>Solveurs de Contraintes Autonomes</strong> [16] lors de ma <em>Soutenance de Thèse</em></p>
+<p><code>2021</code> Présentation de l’article <strong>Focus sur les heuristiques basées sur la pondération de contraintes</strong> [9] lors des <em>16es Journées Francophones de Programmation par Contraintes (JFPC’21)</em></p>
+<p><code>2021</code> Présentation de l’article <strong>Perturbation des heuristiques de branchement dans la résolution de contraintes</strong> [10] lors des <em>16es Journées Francophones de Programmation par Contraintes (JFPC’21)</em></p>
+<p><code>2020</code> Deux Séminaires <strong>Metrics: Towards a Unified Library for Experimenting Solvers</strong> [15] au sein du <em>CRIL, Lens, France</em></p>
+<p><code>2020</code> Présentation de l’article <strong>Metrics: Towards a Unified Library for Experimenting Solvers</strong> [15] lors de <em>the 11th International Workshop on Pragmatics of SAT (POS’20)</em></p>
+<p><code>2020</code> Présentation de l’article <strong>Learning Variable Ordering Heuristics with Multi-Armed Bandits and Restarts</strong> [3] lors de <em>the 24th European Conference on Artificial Intelligence (ECAI’20)</em></p>
+<p><code>2020</code> Présentation de l’article <strong>Perturbing Branching Heuristics in Constraint Solving</strong> [2] lors de <em>the 26th International Conference on Principles and Practice of Constraint Programming (CP’20)</em></p>
+<p><code>2019</code> Présentation de l’article <strong>Refining Constraint Weighting</strong> [4] lors de <em>the 31st International Conference on Tools with Artificial Intelligence (ICTAI’19)</em></p>
+<p><code>2019</code> Présentation de l’article <strong>Heuristiques de Recherche : un Bandit pour les Gouverner Toutes</strong> [13] lors des <em>15es Journées Francophones de Programmation par Contraintes (JFPC’19)</em></p>
+<p><code>2018</code> Séminaire invité sur <strong>Heuristiques de Recherche et Bandits Multi-Bras</strong> [13] au sein de <em>Équipe Coconut - LIRMM, Montpellier, France</em></p>
 
 <h2 id="publications">Publications</h2>
 
@@ -301,80 +301,216 @@ Master Informatique à l’UFR des Sciences Jean Perrin (Université d’Artois)
 
 <h3 id="conférences-internationales">Conférences Internationales</h3>
 
-$for(conf_int)$
 <p>
-  <code>$conf_int.publicationDateY_i$</code>
-  [$conf_int.n$] <strong>$conf_int.title_s$</strong>
+  <code>2022</code>
+  [1] <strong>Best Heuristic Identification for Constraint Satisfaction</strong>
 </p>
 <p>
   <ul>
-    <li>— Auteurs : $for(conf_int.authFullName_s)$$conf_int.authFullName_s$, $endfor$ </li>
-    <li>— Conférence : $conf_int.conferenceTitle_s$</li>
-    $if(conf_int.doiId_s)$<li>— DOI : <a href="https://doi.org/$conf_int.doiId_s$" target="_blank">https://doi.org/$conf_int.doiId_s$</a></li>$endif$ 
-    $if(conf_int.uri_s)$<li>— Dépôt HAL : <a href="$conf_int.uri_s$" target="_blank">$conf_int.uri_s$</a></li>$endif$ 
+    <li>— Auteurs : Frederic Koriche, Christophe Lecoutre, Anastasia Paparrizou, Hugues Wattez,  </li>
+    <li>— Conférence : 31st International Joint Conference on Artificial Intelligence (IJCAI’22)</li>
+    <li>— DOI : <a href="https://doi.org/10.24963/ijcai.2022/258" target="_blank">https://doi.org/10.24963/ijcai.2022/258</a></li> 
+    <li>— Dépôt HAL : <a href="https://hal.archives-ouvertes.fr/hal-03678354v2" target="_blank">https://hal.archives-ouvertes.fr/hal-03678354v2</a></li> 
   </ul>
 </p>
-$endfor$
+<p>
+  <code>2020</code>
+  [2] <strong>Perturbing Branching Heuristics in Constraint Solving</strong>
+</p>
+<p>
+  <ul>
+    <li>— Auteurs : Anastasia Paparrizou, Hugues Wattez,  </li>
+    <li>— Conférence : 26th International Conference on Principles and Practice of Constraint Programming</li>
+    <li>— DOI : <a href="https://doi.org/10.1007/978-3-030-58475-7_29" target="_blank">https://doi.org/10.1007/978-3-030-58475-7_29</a></li> 
+    <li>— Dépôt HAL : <a href="https://hal.archives-ouvertes.fr/hal-03096113" target="_blank">https://hal.archives-ouvertes.fr/hal-03096113</a></li> 
+  </ul>
+</p>
+<p>
+  <code>2020</code>
+  [3] <strong>Learning Variable Ordering Heuristics with Multi-Armed Bandits and Restarts</strong>
+</p>
+<p>
+  <ul>
+    <li>— Auteurs : Hugues Wattez, Frédéric Koriche, Christophe Lecoutre, Anastasia Paparrizou, Sébastien Tabary,  </li>
+    <li>— Conférence : ECAI 2020 - 24th European Conference on Artificial Intelligence</li>
+    <li>— DOI : <a href="https://doi.org/10.3233/FAIA200115" target="_blank">https://doi.org/10.3233/FAIA200115</a></li> 
+    <li>— Dépôt HAL : <a href="https://hal.archives-ouvertes.fr/hal-03096124" target="_blank">https://hal.archives-ouvertes.fr/hal-03096124</a></li> 
+  </ul>
+</p>
+<p>
+  <code>2019</code>
+  [4] <strong>Refining Constraint Weighting</strong>
+</p>
+<p>
+  <ul>
+    <li>— Auteurs : Hugues Wattez, Christophe Lecoutre, Anastasia Paparrizou, Sébastien Tabary,  </li>
+    <li>— Conférence : ICTAI 2019: IEEE 31st International Conference on Tools with Artificial Intelligence</li>
+    <li>— DOI : <a href="https://doi.org/10.1109/ICTAI.2019.00019" target="_blank">https://doi.org/10.1109/ICTAI.2019.00019</a></li> 
+    <li>— Dépôt HAL : <a href="https://hal.archives-ouvertes.fr/hal-02414832" target="_blank">https://hal.archives-ouvertes.fr/hal-02414832</a></li> 
+  </ul>
+</p>
+<p>
+  <code>2018</code>
+  [5] <strong>Data Analytics and Visualization for Connected Objects: A Case Study for Sleep and Physical Activity Trackers</strong>
+</p>
+<p>
+  <ul>
+    <li>— Auteurs : Karim Tabia, Hugues Wattez, Nicolas Ydée, Karima Sedki,  </li>
+    <li>— Conférence : 31st International Conference on Industrial Engineering and Other Applications of Applied Intelligent Systems (IEA/AIE’18)</li>
+    <li>— DOI : <a href="https://doi.org/10.1007/978-3-319-92058-0_66" target="_blank">https://doi.org/10.1007/978-3-319-92058-0_66</a></li> 
+    <li>— Dépôt HAL : <a href="https://hal-univ-artois.archives-ouvertes.fr/hal-03301188" target="_blank">https://hal-univ-artois.archives-ouvertes.fr/hal-03301188</a></li> 
+  </ul>
+</p>
 
 <h3 id="conférences-nationales">Conférences Nationales</h3>
 
-$for(conf_nat)$
 <p>
-  <code>$conf_nat.publicationDateY_i$</code>
-  [$conf_nat.n$]
-  <strong>$conf_nat.title_s$</strong>
+  <code>2022</code>
+  [6]
+  <strong>Exploring AI approaches to improve the resolution of unsplittable multicommodity flow problems in wireless networks</strong>
 </p>
 <p>
   <ul>
-    <li>— Auteurs : $for(conf_nat.authFullName_s)$$conf_nat.authFullName_s$, $endfor$ </li>
-    <li>— Conférence : $conf_nat.conferenceTitle_s$</li>
-    $if(conf_nat.uri_s)$<li>— Dépôt HAL : <a href="$conf_nat.uri_s$" target="_blank">$conf_nat.uri_s$</a></li>$endif$ 
+    <li>— Auteurs : Sonia Haddad-Vanier, Romain Wallon, Hugues Wattez,  </li>
+    <li>— Conférence : 39th Spanish Conference on Statistics and Operation Research (SEIO’22)</li>
+    <li>— Dépôt HAL : <a href="https://hal.archives-ouvertes.fr/hal-03647245" target="_blank">https://hal.archives-ouvertes.fr/hal-03647245</a></li> 
   </ul>
 </p>
-$endfor$
+<p>
+  <code>2022</code>
+  [7]
+  <strong>Metrics : un unique outil pour l’analyse d’expérimentations</strong>
+</p>
+<p>
+  <ul>
+    <li>— Auteurs : Thibault Falque, Romain Wallon, Hugues Wattez,  </li>
+    <li>— Conférence : 23e Conférence ROADEF de la Société Française de Recherche Opérationnelle et d’Aide à la Décision (ROADEF’22)</li>
+    <li>— Dépôt HAL : <a href="https://hal.archives-ouvertes.fr/hal-03595329" target="_blank">https://hal.archives-ouvertes.fr/hal-03595329</a></li> 
+  </ul>
+</p>
+<p>
+  <code>2022</code>
+  [8]
+  <strong>Exploration des approches de l’IA pour renforcer la résolution des problèmes de multiflots entiers dans les réseaux énergétiques</strong>
+</p>
+<p>
+  <ul>
+    <li>— Auteurs : Sonia Haddad-Vanier, Romain Wallon, Hugues Wattez,  </li>
+    <li>— Conférence : 23e Conférence ROADEF de la Société Française de Recherche Opérationnelle et d’Aide à la Décision (ROADEF’22)</li>
+    <li>— Dépôt HAL : <a href="https://hal.archives-ouvertes.fr/hal-03597206" target="_blank">https://hal.archives-ouvertes.fr/hal-03597206</a></li> 
+  </ul>
+</p>
+<p>
+  <code>2021</code>
+  [9]
+  <strong>Focus sur les heuristiques basées sur la pondération de contraintes</strong>
+</p>
+<p>
+  <ul>
+    <li>— Auteurs : Hugues Wattez, Frédéric Koriche, Christophe Lecoutre, Anastasia Paparrizou, Sébastien Tabary,  </li>
+    <li>— Conférence : 16es Journées Francophones de Programmation par Contraintes (JFPC’21)</li>
+    <li>— Dépôt HAL : <a href="https://hal.archives-ouvertes.fr/hal-03449631" target="_blank">https://hal.archives-ouvertes.fr/hal-03449631</a></li> 
+  </ul>
+</p>
+<p>
+  <code>2021</code>
+  [10]
+  <strong>Perturbation des heuristiques de branchement dans la résolution de contraintes</strong>
+</p>
+<p>
+  <ul>
+    <li>— Auteurs : Hugues Wattez, Frederic Koriche, Anastasia Paparrizou,  </li>
+    <li>— Conférence : 16es Journées Francophones de Programmation par Contraintes (JFPC’21)</li>
+    <li>— Dépôt HAL : <a href="https://hal.archives-ouvertes.fr/hal-03449550" target="_blank">https://hal.archives-ouvertes.fr/hal-03449550</a></li> 
+  </ul>
+</p>
+<p>
+  <code>2021</code>
+  [11]
+  <strong>Descente Agressive de Borne en Optimisation sous Contraintes</strong>
+</p>
+<p>
+  <ul>
+    <li>— Auteurs : Thibault Falque, Christophe Lecoutre, Bertrand Mazure, Hugues Wattez,  </li>
+    <li>— Conférence : 16èmes Journées Francophones de Programmation par Contraintes (JFPC’21)</li>
+    <li>— Dépôt HAL : <a href="https://hal-univ-artois.archives-ouvertes.fr/hal-03625476" target="_blank">https://hal-univ-artois.archives-ouvertes.fr/hal-03625476</a></li> 
+  </ul>
+</p>
+<p>
+  <code>2021</code>
+  [12]
+  <strong>Metrics : Mission Expérimentations</strong>
+</p>
+<p>
+  <ul>
+    <li>— Auteurs : Thibault Falque, Romain Wallon, Hugues Wattez,  </li>
+    <li>— Conférence : 16es Journées Francophones de Programmation par Contraintes (JFPC’21)</li>
+    <li>— Dépôt HAL : <a href="https://hal.archives-ouvertes.fr/hal-03295285" target="_blank">https://hal.archives-ouvertes.fr/hal-03295285</a></li> 
+  </ul>
+</p>
+<p>
+  <code>2019</code>
+  [13]
+  <strong>Heuristiques de recherche : un bandit pour les gouverner toutes</strong>
+</p>
+<p>
+  <ul>
+    <li>— Auteurs : Hugues Wattez, Frédéric Koriche, Christophe Lecoutre, Anastasia Paparrizou, Sébastien Tabary,  </li>
+    <li>— Conférence : 15es Journées Francophones de Programmation par Contraintes – JFPC 2019</li>
+    <li>— Dépôt HAL : <a href="https://hal.archives-ouvertes.fr/hal-02414288" target="_blank">https://hal.archives-ouvertes.fr/hal-02414288</a></li> 
+  </ul>
+</p>
 
 <h3 id="ateliers-internationaux">Ateliers Internationaux</h3>
 
-$for(workshops)$
 <p>
-  <code>$workshops.publicationDateY_i$</code>
-  [$workshops.n$]
-  <strong>$workshops.title_s$</strong>
+  <code>2022</code>
+  [14]
+  <strong>Aggressive Bound Descent for Constraint Optimization</strong>
 </p>
 <p>
   <ul>
-    <li>— Auteurs : $for(workshops.authFullName_s)$$workshops.authFullName_s$, $endfor$ </li>
-    <li>— Conférence : $workshops.conferenceTitle_s$</li>
-    $if(workshops.uri_s)$<li>— Dépôt HAL : <a href="$workshops.uri_s$" target="_blank">$workshops.uri_s$</a></li>$endif$ 
+    <li>— Auteurs : Thibault Falque, Christophe Lecoutre, Bertrand Mazure, Hugues Wattez,  </li>
+    <li>— Conférence : Doctoral Program of the 28th International Conference on Principles and Practice of Constraint Programming.</li>
+    <li>— Dépôt HAL : <a href="https://hal.archives-ouvertes.fr/hal-03749141" target="_blank">https://hal.archives-ouvertes.fr/hal-03749141</a></li> 
   </ul>
 </p>
-$endfor$
+<p>
+  <code>2020</code>
+  [15]
+  <strong>Metrics: Towards a Unified Library for Experimenting Solvers</strong>
+</p>
+<p>
+  <ul>
+    <li>— Auteurs : Thibault Falque, Romain Wallon, Hugues Wattez,  </li>
+    <li>— Conférence : 11th International Workshop on Pragmatics of SAT (POS’20)</li>
+    <li>— Dépôt HAL : <a href="https://hal-univ-artois.archives-ouvertes.fr/hal-03301303" target="_blank">https://hal-univ-artois.archives-ouvertes.fr/hal-03301303</a></li> 
+  </ul>
+</p>
 
 <h3 id="manuscrits">Manuscrits</h3>
 
-$for(others)$
 <p>
-  <code>$others.publicationDateY_i$</code>
-  [$others.n$]
-  <strong>$others.title_s$</strong>
+  <code>2021</code>
+  [16]
+  <strong>Solveurs de Contraintes AutonomesAutonomous Constraint Solvers</strong>
 </p>
 <p>
   <ul>
-    <li>— Auteur : $for(others.authFullName_s)$$others.authFullName_s$ $endfor$ </li>
-    $if(others.uri_s)$<li>— Dépôt HAL : <a href="$others.uri_s$" target="_blank">$others.uri_s$</a></li>$endif$ 
+    <li>— Auteur : Hugues Wattez  </li>
+    <li>— Dépôt HAL : <a href="https://hal-univ-artois.archives-ouvertes.fr/tel-03648917" target="_blank">https://hal-univ-artois.archives-ouvertes.fr/tel-03648917</a></li> 
   </ul>
 </p>
-$endfor$
 
 <h3 id="manuscrits">Une sélection de travaux</h3>
 <p>
-  Parmi l'ensemble de ces travaux, je propose une sous-sélection de trois articles. Il s'agit du cheminement logique depuis la création d'une heuristique de branchement [$refs.hal-02414832$] pour le domaine de la programmation par contraintes, en passant par l'amélioration, de façon générique, des heuristiques de branchement de l'état de l'art du domaine grâce à l'ajout d'aléa [$refs.hal-03096113$] jusqu'à la sélection automatique de la meilleure heuristique parmi un ensemble d'heuristiques pendant la résolution d'une instance grâce à l'apprentissage par renforcement [$refs.hal-03678354$].
+  Parmi l'ensemble de ces travaux, je propose une sous-sélection de trois articles. Il s'agit du cheminement logique depuis la création d'une heuristique de branchement [4] pour le domaine de la programmation par contraintes, en passant par l'amélioration, de façon générique, des heuristiques de branchement de l'état de l'art du domaine grâce à l'ajout d'aléa [2] jusqu'à la sélection automatique de la meilleure heuristique parmi un ensemble d'heuristiques pendant la résolution d'une instance grâce à l'apprentissage par renforcement [1].
 </p>
 
 
 <h2 id="production-logicielle">Production Logicielle</h2>
-<p><code>ACE</code> J'ai contribué au solveur de contraintes ACE (<a target="_blank" href="https://gitlab.com/productions-hwattez/solveurs-de-contraintes-autonomes/doctorat/ace">https://gitlab.com/productions-hwattez/solveurs-de-contraintes-autonomes/doctorat/ace</a>), avec l’intégration de l'ensemble de mes travaux de thèse [$refs.hal-03678354$,$refs.hal-03096113$,$refs.hal-03096124$,$refs.hal-02414832$,$refs.hal-03449631$,$refs.hal-03449550$,$refs.hal-02414288$,$refs.hal-03749141$,$refs.tel-03648917$,$refs.hal-03625476$]. Cette instance du solveur permet notamment de reproduire l'ensemble des expérimentations de thèse, de les analyser et de produire les figures apparaissant dans le manuscrit de thèse (<a target="_blank" href="https://gitlab.com/productions-hwattez/solveurs-de-contraintes-autonomes/doctorat/experimentations">https://gitlab.com/productions-hwattez/solveurs-de-contraintes-autonomes/doctorat/experimentations</a>).</p>
-<p><code>Metrics</code> J’ai participé à la conception de la bibliothèque open-source Metrics [$refs.hal-03595329$, $refs.hal-03295285$], conçue pour faciliter l’analyse de résultats expérimentaux (<a href="https://github.com/crillab/metrics">https://github.com/crillab/metrics</a>). En particulier, cette bibliothèque propose une chaîne d’outils complète, permettant d’extraire les données à partir des fichiers de log produits par les solveurs (indépendamment du format utilisé par ceux-ci), puis de les charger en mémoire pour ensuite tracer des figures couramment utilisées dans la communauté pour analyser les performances de solveurs (entre autres : boîtes à moustaches, scatter plots, cactus plots ou CDF).</p>
+<p><code>ACE</code> J'ai contribué au solveur de contraintes ACE (<a target="_blank" href="https://gitlab.com/productions-hwattez/solveurs-de-contraintes-autonomes/doctorat/ace">https://gitlab.com/productions-hwattez/solveurs-de-contraintes-autonomes/doctorat/ace</a>), avec l’intégration de l'ensemble de mes travaux de thèse [1,2,3,4,9,10,13,14,16,11]. Cette instance du solveur permet notamment de reproduire l'ensemble des expérimentations de thèse, de les analyser et de produire les figures apparaissant dans le manuscrit de thèse (<a target="_blank" href="https://gitlab.com/productions-hwattez/solveurs-de-contraintes-autonomes/doctorat/experimentations">https://gitlab.com/productions-hwattez/solveurs-de-contraintes-autonomes/doctorat/experimentations</a>).</p>
+<p><code>Metrics</code> J’ai participé à la conception de la bibliothèque open-source Metrics [7, 12], conçue pour faciliter l’analyse de résultats expérimentaux (<a href="https://github.com/crillab/metrics">https://github.com/crillab/metrics</a>). En particulier, cette bibliothèque propose une chaîne d’outils complète, permettant d’extraire les données à partir des fichiers de log produits par les solveurs (indépendamment du format utilisé par ceux-ci), puis de les charger en mémoire pour ensuite tracer des figures couramment utilisées dans la communauté pour analyser les performances de solveurs (entre autres : boîtes à moustaches, scatter plots, cactus plots ou CDF).</p>
 
 
 
